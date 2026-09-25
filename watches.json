@@ -6,7 +6,7 @@
     "price": 245,
     "inStock": true,
     "releaseDate": "2019-07-01",
-    "imageUrl": "/images/watches/seiko-srpd55.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Seiko_5_Sports_SRPD55.jpg",
     "movement": "Automatic",
     "features": ["Day-date display", "Luminous hands", "Screw-down crown", "Exhibition caseback"],
     "brand": {
@@ -26,7 +26,7 @@
     "price": 420,
     "inStock": true,
     "releaseDate": "2020-03-15",
-    "imageUrl": "/images/watches/seiko-turtle.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Seiko_Prospex_Turtle_SRPE93.jpg",
     "movement": "Automatic",
     "features": ["200m water resistance", "Unidirectional bezel", "LumiBrite dial", "Hardlex crystal"],
     "brand": {
@@ -46,7 +46,7 @@
     "price": 69,
     "inStock": true,
     "releaseDate": "1996-01-01",
-    "imageUrl": "/images/watches/casio-dw5600.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Casio_G-Shock_DW-5600E.jpg",
     "movement": "Quartz",
     "features": ["Shock resistant", "EL backlight", "Stopwatch", "Countdown timer", "200m water resistance"],
     "brand": {
@@ -66,7 +66,7 @@
     "price": 15,
     "inStock": true,
     "releaseDate": "1989-01-01",
-    "imageUrl": "/images/watches/casio-f91w.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Casio_F-91W.webp",
     "movement": "Quartz",
     "features": ["Daily alarm", "Stopwatch", "Auto calendar", "7-year battery"],
     "brand": {
@@ -86,7 +86,7 @@
     "price": 10900,
     "inStock": false,
     "releaseDate": "2020-09-01",
-    "imageUrl": "/images/watches/rolex-submariner.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Rolex_Submariner_Date_126610LN.jpg",
     "movement": "Automatic",
     "features": ["300m water resistance", "Ceramic bezel", "Glidelock clasp", "Chronometer certified", "70h power reserve"],
     "brand": {
@@ -106,7 +106,7 @@
     "price": 9200,
     "inStock": true,
     "releaseDate": "2016-03-17",
-    "imageUrl": "/images/watches/rolex-datejust.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Rolex_Datejust_41.avif",
     "movement": "Automatic",
     "features": ["Cyclops date lens", "Jubilee bracelet", "Fluted bezel", "Chronometer certified"],
     "brand": {
@@ -126,7 +126,7 @@
     "price": 675,
     "inStock": true,
     "releaseDate": "2021-01-14",
-    "imageUrl": "/images/watches/tissot-prx.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Tissot_PRX_Powermatic_80.webp",
     "movement": "Automatic",
     "features": ["80h power reserve", "Integrated bracelet", "Sapphire crystal", "Waffle dial"],
     "brand": {
@@ -146,7 +146,7 @@
     "price": 550,
     "inStock": false,
     "releaseDate": "2018-06-20",
-    "imageUrl": "/images/watches/tissot-seastar.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Tissot_Seastar_1000.webp",
     "movement": "Automatic",
     "features": ["300m water resistance", "Helium escape valve", "Ceramic bezel", "Screw-down crown"],
     "brand": {
@@ -166,7 +166,7 @@
     "price": 165,
     "inStock": true,
     "releaseDate": "2013-09-01",
-    "imageUrl": "/images/watches/orient-bambino.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Orient_Bambino_Version_2.jpg",
     "movement": "Automatic",
     "features": ["Domed mineral crystal", "Applied indices", "Leather strap", "Hand winding"],
     "brand": {
