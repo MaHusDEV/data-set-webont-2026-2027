@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Seiko 5 Sports SRPD55",
+    "description": "An automatic field watch with a 24-jewel 4R36 movement, day and date display and a 100 metre water resistance rating. The brushed steel case measures 42.5 mm and sits on a solid oyster bracelet. It has become the default recommendation for anyone buying a first mechanical watch, because it offers hacking and hand-winding at a price where most rivals offer neither.",
+    "price": 245,
+    "inStock": true,
+    "releaseDate": "2019-07-01",
+    "imageUrl": "/images/watches/seiko-srpd55.jpg",
+    "movement": "Automatic",
+    "features": ["Day-date display", "Luminous hands", "Screw-down crown", "Exhibition caseback"],
+    "brand": {
+      "id": 101,
+      "name": "Seiko",
+      "country": "Japan",
+      "founded": 1881,
+      "isLuxury": false,
+      "headquarters": "Tokyo",
+      "logoUrl": "/images/brands/seiko.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Seiko Prospex Turtle SRPE93",
+    "description": "A cushion-cased dive watch descended from the 6309 of 1976, rated to 200 metres and fitted with the automatic 4R36 calibre. The rounded case protects the crown without a guard and wears far smaller than its 45 mm width suggests. Divers value the wide unidirectional bezel, which can be gripped with wet hands or thin gloves.",
+    "price": 420,
+    "inStock": true,
+    "releaseDate": "2020-03-15",
+    "imageUrl": "/images/watches/seiko-turtle.jpg",
+    "movement": "Automatic",
+    "features": ["200m water resistance", "Unidirectional bezel", "LumiBrite dial", "Hardlex crystal"],
+    "brand": {
+      "id": 101,
+      "name": "Seiko",
+      "country": "Japan",
+      "founded": 1881,
+      "isLuxury": false,
+      "headquarters": "Tokyo",
+      "logoUrl": "/images/brands/seiko.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Casio G-Shock DW-5600E",
+    "description": "The square G-Shock that defines the entire line, built around a resin case with a floating module suspended inside it. The battery lasts roughly two years, the stopwatch reads to hundredths of a second and the whole thing survives abuse that would destroy a mechanical watch. It weighs 53 grams, which is why people forget they are wearing one.",
+    "price": 69,
+    "inStock": true,
+    "releaseDate": "1996-01-01",
+    "imageUrl": "/images/watches/casio-dw5600.jpg",
+    "movement": "Quartz",
+    "features": ["Shock resistant", "EL backlight", "Stopwatch", "Countdown timer", "200m water resistance"],
+    "brand": {
+      "id": 102,
+      "name": "Casio",
+      "country": "Japan",
+      "founded": 1946,
+      "isLuxury": false,
+      "headquarters": "Shibuya",
+      "logoUrl": "/images/brands/casio.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Casio F-91W",
+    "description": "A digital watch that has been in continuous production since 1989 and still sells in the millions every year. The module offers an alarm, a stopwatch and a calendar accurate until 2099, powered by a cell that lasts about seven years. Its resin strap and 37 mm case make it one of the lightest watches ever mass produced.",
+    "price": 15,
+    "inStock": true,
+    "releaseDate": "1989-01-01",
+    "imageUrl": "/images/watches/casio-f91w.jpg",
+    "movement": "Quartz",
+    "features": ["Daily alarm", "Stopwatch", "Auto calendar", "7-year battery"],
+    "brand": {
+      "id": 102,
+      "name": "Casio",
+      "country": "Japan",
+      "founded": 1946,
+      "isLuxury": false,
+      "headquarters": "Shibuya",
+      "logoUrl": "/images/brands/casio.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Rolex Submariner Date 126610LN",
+    "description": "The reference against which every other dive watch is measured, now running the calibre 3235 with a seventy hour power reserve. The 41 mm Oystersteel case is rated to 300 metres and closes with a Glidelock clasp that extends over a wetsuit without tools. Waiting lists at authorised dealers routinely run for years, which pushes grey market prices well above retail.",
+    "price": 10900,
+    "inStock": false,
+    "releaseDate": "2020-09-01",
+    "imageUrl": "/images/watches/rolex-submariner.jpg",
+    "movement": "Automatic",
+    "features": ["300m water resistance", "Ceramic bezel", "Glidelock clasp", "Chronometer certified", "70h power reserve"],
+    "brand": {
+      "id": 103,
+      "name": "Rolex",
+      "country": "Switzerland",
+      "founded": 1905,
+      "isLuxury": true,
+      "headquarters": "Geneva",
+      "logoUrl": "/images/brands/rolex.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Rolex Datejust 41",
+    "description": "A dress watch that has survived seventy years of changing fashion largely unaltered, defined by its fluted bezel and the cyclops lens over the date. The 41 mm case comes in steel, gold or a combination of both, and the Jubilee bracelet remains one of the most comfortable ever made. It is the watch most often given to mark a retirement or a graduation.",
+    "price": 9200,
+    "inStock": true,
+    "releaseDate": "2016-03-17",
+    "imageUrl": "/images/watches/rolex-datejust.jpg",
+    "movement": "Automatic",
+    "features": ["Cyclops date lens", "Jubilee bracelet", "Fluted bezel", "Chronometer certified"],
+    "brand": {
+      "id": 103,
+      "name": "Rolex",
+      "country": "Switzerland",
+      "founded": 1905,
+      "isLuxury": true,
+      "headquarters": "Geneva",
+      "logoUrl": "/images/brands/rolex.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Tissot PRX Powermatic 80",
+    "description": "An integrated bracelet sports watch revived from a 1978 design, carrying the Powermatic 80 movement with its eighty hour reserve. The 40 mm case is only 10.9 mm thick, so it slides under a shirt cuff without catching. Its arrival in 2021 triggered a wave of imitators across the entire industry at this price point.",
+    "price": 675,
+    "inStock": true,
+    "releaseDate": "2021-01-14",
+    "imageUrl": "/images/watches/tissot-prx.jpg",
+    "movement": "Automatic",
+    "features": ["80h power reserve", "Integrated bracelet", "Sapphire crystal", "Waffle dial"],
+    "brand": {
+      "id": 104,
+      "name": "Tissot",
+      "country": "Switzerland",
+      "founded": 1853,
+      "isLuxury": false,
+      "headquarters": "Le Locle",
+      "logoUrl": "/images/brands/tissot.png"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Tissot Seastar 1000",
+    "description": "A proper 300 metre diver with a helium escape valve and a ceramic bezel insert, sold for a fraction of what those specifications usually cost. The 43 mm case is large but the lug to lug distance keeps it wearable on a medium wrist. Tissot offers it on both a steel bracelet and a rubber strap with a diver extension.",
+    "price": 550,
+    "inStock": false,
+    "releaseDate": "2018-06-20",
+    "imageUrl": "/images/watches/tissot-seastar.jpg",
+    "movement": "Automatic",
+    "features": ["300m water resistance", "Helium escape valve", "Ceramic bezel", "Screw-down crown"],
+    "brand": {
+      "id": 104,
+      "name": "Tissot",
+      "country": "Switzerland",
+      "founded": 1853,
+      "isLuxury": false,
+      "headquarters": "Le Locle",
+      "logoUrl": "/images/brands/tissot.png"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Orient Bambino Version 2",
+    "description": "A dress watch with a domed crystal and a domed dial, which together produce the warped reflections normally found only on vintage pieces. The in-house F6724 calibre hand winds but does not hack, a compromise that keeps the price under two hundred euros. At 40.5 mm with slim lugs it suits almost any wrist size.",
+    "price": 165,
+    "inStock": true,
+    "releaseDate": "2013-09-01",
+    "imageUrl": "/images/watches/orient-bambino.jpg",
+    "movement": "Automatic",
+    "features": ["Domed mineral crystal", "Applied indices", "Leather strap", "Hand winding"],
+    "brand": {
+      "id": 105,
+      "name": "Orient",
+      "country": "Japan",
+      "founded": 1950,
+      "isLuxury": false,
+      "headquarters": "Tokyo",
+      "logoUrl": "/images/brands/orient.png"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Orient Kamasu RA-AA0004B",
+    "description": "A dive watch carrying a sapphire crystal and a hacking, hand winding movement at a price where competitors still fit mineral glass. The 41.8 mm case tapers sharply towards the bracelet, which makes it wear smaller than the specification sheet suggests. Its sunburst blue dial shifts from near black to bright azure depending on the light.",
+    "price": 230,
+    "inStock": true,
+    "releaseDate": "2018-04-10",
+    "imageUrl": "/images/watches/orient-kamasu.jpg",
+    "movement": "Automatic",
+    "features": ["Sapphire crystal", "200m water resistance", "Hacking seconds", "Sunburst dial"],
+    "brand": {
+      "id": 105,
+      "name": "Orient",
+      "country": "Japan",
+      "founded": 1950,
+      "isLuxury": false,
+      "headquarters": "Tokyo",
+      "logoUrl": "/images/brands/orient.png"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Omega Speedmaster Professional",
+    "description": "The watch worn on the surface of the Moon in 1969, still driven by a hand wound chronograph movement rather than an automatic one. NASA qualified it after tests that destroyed every competing chronograph submitted, and the design has barely changed since. The hesalite crystal scratches easily but will craze instead of shattering, which is why it was chosen.",
+    "price": 7100,
+    "inStock": true,
+    "releaseDate": "1957-01-01",
+    "imageUrl": "/images/watches/omega-speedmaster.jpg",
+    "movement": "Manual",
+    "features": ["Chronograph", "Tachymeter bezel", "Hesalite crystal", "NASA flight qualified", "Co-axial escapement"],
+    "brand": {
+      "id": 106,
+      "name": "Omega",
+      "country": "Switzerland",
+      "founded": 1848,
+      "isLuxury": true,
+      "headquarters": "Biel",
+      "logoUrl": "/images/brands/omega.png"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Omega Seamaster Diver 300M",
+    "description": "A dive watch with a laser engraved wave pattern on its ceramic dial and a Master Chronometer movement resistant to magnetic fields of 15000 gauss. The helium escape valve at ten o'clock is now conical and can be operated underwater. It has appeared on screen in every James Bond film since 1995, which shaped its reputation as much as its engineering did.",
+    "price": 5600,
+    "inStock": false,
+    "releaseDate": "2018-03-22",
+    "imageUrl": "/images/watches/omega-seamaster.jpg",
+    "movement": "Automatic",
+    "features": ["300m water resistance", "Anti-magnetic to 15000 gauss", "Ceramic dial", "Helium escape valve", "Master Chronometer"],
+    "brand": {
+      "id": 106,
+      "name": "Omega",
+      "country": "Switzerland",
+      "founded": 1848,
+      "isLuxury": true,
+      "headquarters": "Biel",
+      "logoUrl": "/images/brands/omega.png"
+    }
+  }
+]

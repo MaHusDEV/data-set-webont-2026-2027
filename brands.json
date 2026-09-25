@@ -1,0 +1,56 @@
+[
+  {
+    "id": 101,
+    "name": "Seiko",
+    "country": "Japan",
+    "founded": 1881,
+    "isLuxury": false,
+    "headquarters": "Tokyo",
+    "logoUrl": "/images/brands/seiko.png"
+  },
+  {
+    "id": 102,
+    "name": "Casio",
+    "country": "Japan",
+    "founded": 1946,
+    "isLuxury": false,
+    "headquarters": "Shibuya",
+    "logoUrl": "/images/brands/casio.png"
+  },
+  {
+    "id": 103,
+    "name": "Rolex",
+    "country": "Switzerland",
+    "founded": 1905,
+    "isLuxury": true,
+    "headquarters": "Geneva",
+    "logoUrl": "/images/brands/rolex.png"
+  },
+  {
+    "id": 104,
+    "name": "Tissot",
+    "country": "Switzerland",
+    "founded": 1853,
+    "isLuxury": false,
+    "headquarters": "Le Locle",
+    "logoUrl": "/images/brands/tissot.png"
+  },
+  {
+    "id": 105,
+    "name": "Orient",
+    "country": "Japan",
+    "founded": 1950,
+    "isLuxury": false,
+    "headquarters": "Tokyo",
+    "logoUrl": "/images/brands/orient.png"
+  },
+  {
+    "id": 106,
+    "name": "Omega",
+    "country": "Switzerland",
+    "founded": 1848,
+    "isLuxury": true,
+    "headquarters": "Biel",
+    "logoUrl": "/images/brands/omega.png"
+  }
+]
