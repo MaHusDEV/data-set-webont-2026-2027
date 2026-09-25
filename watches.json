@@ -16,7 +16,7 @@
       "founded": 1881,
       "isLuxury": false,
       "headquarters": "Tokyo",
-      "logoUrl": "/images/brands/seiko.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Seiko_logo.png"
     }
   },
   {
@@ -36,7 +36,7 @@
       "founded": 1881,
       "isLuxury": false,
       "headquarters": "Tokyo",
-      "logoUrl": "/images/brands/seiko.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Seiko_logo.png"
     }
   },
   {
@@ -56,7 +56,7 @@
       "founded": 1946,
       "isLuxury": false,
       "headquarters": "Shibuya",
-      "logoUrl": "/images/brands/casio.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Casio_logo.png"
     }
   },
   {
@@ -76,7 +76,7 @@
       "founded": 1946,
       "isLuxury": false,
       "headquarters": "Shibuya",
-      "logoUrl": "/images/brands/casio.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Casio_logo.png"
     }
   },
   {
@@ -96,7 +96,7 @@
       "founded": 1905,
       "isLuxury": true,
       "headquarters": "Geneva",
-      "logoUrl": "/images/brands/rolex.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Rolex_logo.png"
     }
   },
   {
@@ -116,7 +116,7 @@
       "founded": 1905,
       "isLuxury": true,
       "headquarters": "Geneva",
-      "logoUrl": "/images/brands/rolex.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Rolex_logo.png"
     }
   },
   {
@@ -136,7 +136,7 @@
       "founded": 1853,
       "isLuxury": false,
       "headquarters": "Le Locle",
-      "logoUrl": "/images/brands/tissot.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Tissot_logo.png"
     }
   },
   {
@@ -156,7 +156,7 @@
       "founded": 1853,
       "isLuxury": false,
       "headquarters": "Le Locle",
-      "logoUrl": "/images/brands/tissot.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Tissot_logo.png"
     }
   },
   {
@@ -166,7 +166,7 @@
     "price": 165,
     "inStock": true,
     "releaseDate": "2013-09-01",
-    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Orient_Bambino_Version_2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Orient_Bambino_Version_2.webp",
     "movement": "Automatic",
     "features": ["Domed mineral crystal", "Applied indices", "Leather strap", "Hand winding"],
     "brand": {
@@ -176,7 +176,7 @@
       "founded": 1950,
       "isLuxury": false,
       "headquarters": "Tokyo",
-      "logoUrl": "/images/brands/orient.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Orient_logo.png"
     }
   },
   {
@@ -186,7 +186,7 @@
     "price": 230,
     "inStock": true,
     "releaseDate": "2018-04-10",
-    "imageUrl": "/images/watches/orient-kamasu.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Orient_Kamasu_RA-AA0004B.jpg",
     "movement": "Automatic",
     "features": ["Sapphire crystal", "200m water resistance", "Hacking seconds", "Sunburst dial"],
     "brand": {
@@ -196,7 +196,7 @@
       "founded": 1950,
       "isLuxury": false,
       "headquarters": "Tokyo",
-      "logoUrl": "/images/brands/orient.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Orient_logo.png"
     }
   },
   {
@@ -206,7 +206,7 @@
     "price": 7100,
     "inStock": true,
     "releaseDate": "1957-01-01",
-    "imageUrl": "/images/watches/omega-speedmaster.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Omega_Speedmaster_Professional.jpg",
     "movement": "Manual",
     "features": ["Chronograph", "Tachymeter bezel", "Hesalite crystal", "NASA flight qualified", "Co-axial escapement"],
     "brand": {
@@ -216,7 +216,7 @@
       "founded": 1848,
       "isLuxury": true,
       "headquarters": "Biel",
-      "logoUrl": "/images/brands/omega.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Omega_logo.jpg"
     }
   },
   {
@@ -226,7 +226,7 @@
     "price": 5600,
     "inStock": false,
     "releaseDate": "2018-03-22",
-    "imageUrl": "/images/watches/omega-seamaster.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/watches/Omega_Seamaster_Diver_300M.webp",
     "movement": "Automatic",
     "features": ["300m water resistance", "Anti-magnetic to 15000 gauss", "Ceramic dial", "Helium escape valve", "Master Chronometer"],
     "brand": {
@@ -236,7 +236,7 @@
       "founded": 1848,
       "isLuxury": true,
       "headquarters": "Biel",
-      "logoUrl": "/images/brands/omega.png"
+      "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Omega_logo.jpg"
     }
   }
 ]
