@@ -6,7 +6,7 @@
     "founded": 1881,
     "isLuxury": false,
     "headquarters": "Tokyo",
-    "logoUrl": "/images/brands/seiko.png"
+    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Seiko_logo.png"
   },
   {
     "id": 102,
@@ -15,7 +15,7 @@
     "founded": 1946,
     "isLuxury": false,
     "headquarters": "Shibuya",
-    "logoUrl": "/images/brands/casio.png"
+    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Casio_logo.png"
   },
   {
     "id": 103,
@@ -24,7 +24,7 @@
     "founded": 1905,
     "isLuxury": true,
     "headquarters": "Geneva",
-    "logoUrl": "/images/brands/rolex.png"
+    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Rolex_logo.png"
   },
   {
     "id": 104,
@@ -33,7 +33,7 @@
     "founded": 1853,
     "isLuxury": false,
     "headquarters": "Le Locle",
-    "logoUrl": "/images/brands/tissot.png"
+    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Tissot_logo.png"
   },
   {
     "id": 105,
@@ -42,7 +42,7 @@
     "founded": 1950,
     "isLuxury": false,
     "headquarters": "Tokyo",
-    "logoUrl": "/images/brands/orient.png"
+    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Orient_logo.png"
   },
   {
     "id": 106,
@@ -51,6 +51,6 @@
     "founded": 1848,
     "isLuxury": true,
     "headquarters": "Biel",
-    "logoUrl": "/images/brands/omega.png"
+    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/data-set-webont-2026-2027/refs/heads/main/images/logo/Omega_logo.jpg"
   }
 ]
